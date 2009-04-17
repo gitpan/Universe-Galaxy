@@ -1,0 +1,22 @@
+---
+name: Universe-Galaxy
+version: 0.01
+author:
+  - 'Jozef Kutej <jkutej@cpan.org>'
+abstract: the missing piece in CPAN
+license: perl
+resources:
+  license: http://dev.perl.org/licenses/
+build_requires:
+  Test::More: 0
+provides:
+  Universe::Galaxy:
+    file: lib/Universe/Galaxy.pm
+    version: 0.01
+  Universe::ObservableUniverse::Filament::SuperCluster::Cluster::Group::Galaxy::Arm::Buble::InterstellarCloud::SolarSystem::Earth:
+    file: lib/Universe/ObservableUniverse/Filament/SuperCluster/Cluster/Group/Galaxy/Arm/Buble/InterstellarCloud/SolarSystem/Earth.pm
+    version: 0.01
+generated_by: Module::Build version 0.3
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2
