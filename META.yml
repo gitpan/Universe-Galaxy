@@ -1,6 +1,6 @@
 ---
 name: Universe-Galaxy
-version: 0.01
+version: 0.02
 author:
   - 'Jozef Kutej <jkutej@cpan.org>'
 abstract: the missing piece in CPAN
@@ -12,10 +12,10 @@ build_requires:
 provides:
   Universe::Galaxy:
     file: lib/Universe/Galaxy.pm
-    version: 0.01
-  Universe::ObservableUniverse::Filament::SuperCluster::Cluster::Group::Galaxy::Arm::Buble::InterstellarCloud::SolarSystem::Earth:
-    file: lib/Universe/ObservableUniverse/Filament/SuperCluster/Cluster/Group/Galaxy/Arm/Buble/InterstellarCloud/SolarSystem/Earth.pm
-    version: 0.01
+    version: 0.02
+  Universe::ObservableUniverse::Filament::SuperCluster::Cluster::Group::Galaxy::Arm::Bubble::InterstellarCloud::SolarSystem::Earth:
+    file: lib/Universe/ObservableUniverse/Filament/SuperCluster/Cluster/Group/Galaxy/Arm/Bubble/InterstellarCloud/SolarSystem/Earth.pm
+    version: 0.02
 generated_by: Module::Build version 0.3
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html

@@ -15,13 +15,13 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 712e0c733392f4dc5246775e644238349988f72b Build.PL
-SHA1 9fe81565e2e044393330b50bbeee3f07657a495d Changes
-SHA1 29fba80b16e72264d421125156d8637012c7d05f MANIFEST
-SHA1 890ccdaf58cf11f26ea1132ecafa6f4e71279961 META.yml
+SHA1 e83c0ac945d77713df83e229b2d2018da1a5e133 Changes
+SHA1 c2e652437fbac4c18d92696b9c8804af05386175 MANIFEST
+SHA1 3f70d5f0a48db925fcb4f26ad8881772972b770a META.yml
 SHA1 d647000fcc47acc4f59867778b6f427928e5f6db Makefile.PL
-SHA1 b40748049f802a5d6f611ebabcdaec6b380ee7bb README
-SHA1 94598f612e9d2ae6e300917c476938cb4ae5f1df lib/Universe/Galaxy.pm
-SHA1 1a0c51762c487e48e6d196126e06a17bf0b8154b lib/Universe/ObservableUniverse/Filament/SuperCluster/Cluster/Group/Galaxy/Arm/Buble/InterstellarCloud/SolarSystem/Earth.pm
+SHA1 0e1b3f40b26bb05e9806b7122ecccca9fec88229 README
+SHA1 5ca47780067b4f9a5bf435df4e1d9b47cbb7c541 lib/Universe/Galaxy.pm
+SHA1 a3490bd9530d01e9a590811440b0d1acbb022ab8 lib/Universe/ObservableUniverse/Filament/SuperCluster/Cluster/Group/Galaxy/Arm/Bubble/InterstellarCloud/SolarSystem/Earth.pm
 SHA1 605f05a5336cc37a476bb10b218f5ad1a2bd340d t/00_compile.t
 SHA1 41533fbd463e42d2ecf1e119eca910c16809d13e t/distribution.t
 SHA1 10c564e5ffe84748070827b350edbf3d6b832b20 t/fixme.t
@@ -31,11 +31,11 @@ SHA1 ef456f030158ac474dabd8300b048d7411465d3c t/perltidy.conf
 SHA1 0b1c5a2d59be6bfa7d60c64cd964fea6a0331705 t/pod-coverage.t
 SHA1 fbfee66a7214068bea8115b492ac6b9746aab2e1 t/pod-spell.t
 SHA1 640935336dc1123c0069bcf5432bcaedc2cf22d3 t/pod.t
-SHA1 c5a53fdbbc0662e5cabf4cfc79638b8c5b3c8ee4 t/universe-observableuniverse-filament-supercluster-cluster-group-galaxy-arm-buble-interstellarcloud-solarSystem-planet-earth.t
+SHA1 197b25a602a7192cb82633749503dad44161f515 t/universe-observableuniverse-filament-supercluster-cluster-group-galaxy-arm-bubble-interstellarcloud-solarSystem-planet-earth.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.9 (GNU/Linux)
 
-iEYEARECAAYFAknooMEACgkQC0OgUPgL2Sc5ZQCfSREN8a7QQcVUwsmCEGS3fpYu
-Fb0An0g/LIffQr2/dptNa+ZIxR7biIbI
-=c1g2
+iEYEARECAAYFAknqJKIACgkQC0OgUPgL2SfDtACfconPkkc6dhaFz/Ty+J78ol5d
+h/wAn12I5RpqznDZG1pz/fTV3j3KeQKD
+=Ue81
 -----END PGP SIGNATURE-----
