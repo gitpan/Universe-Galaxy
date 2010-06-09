@@ -15,12 +15,12 @@ SEE ALSO
     laxy::Arm::Buble::InterstellarCloud::SolarSystem::Earth
 
 AUTHOR
-    Jozef Kutej, "<jkutej at cpan.org>"
+    Jozef Kutej, `<jkutej at cpan.org>'
 
 BUGS
-    Please report any bugs or feature requests to "bug-universe-galaxy at
-    rt.cpan.org", or through the web interface at
-    <http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Universe-Galaxy>. I will
+    Please report any bugs or feature requests to `bug-universe-galaxy at
+    rt.cpan.org', or through the web interface at
+    http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Universe-Galaxy. I will
     be notified, and then you'll automatically be notified of progress on
     your bug as I make changes.
 
@@ -31,21 +31,17 @@ SUPPORT
 
     You can also look for information at:
 
-    *   RT: CPAN's request tracker
+    * RT: CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Universe-Galaxy
 
-        <http://rt.cpan.org/NoAuth/Bugs.html?Dist=Universe-Galaxy>
+    * AnnoCPAN: Annotated CPAN documentation
+        http://annocpan.org/dist/Universe-Galaxy
 
-    *   AnnoCPAN: Annotated CPAN documentation
+    * CPAN Ratings
+        http://cpanratings.perl.org/d/Universe-Galaxy
 
-        <http://annocpan.org/dist/Universe-Galaxy>
-
-    *   CPAN Ratings
-
-        <http://cpanratings.perl.org/d/Universe-Galaxy>
-
-    *   Search CPAN
-
-        <http://search.cpan.org/dist/Universe-Galaxy>
+    * Search CPAN
+        http://search.cpan.org/dist/Universe-Galaxy
 
 ACKNOWLEDGEMENTS
 COPYRIGHT
